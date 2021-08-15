@@ -1,6 +1,6 @@
 # SuperResolution-Denoising
 
-# HighQuality_and_Denosing
+
   * Results of training and testing using the [Visdrone](http://aiskyeye.com/) data set
 ## Qualitative comparison(Denoising + Super Resolution)
 ### Use a modified RDSRN(It will be updated soon.)
