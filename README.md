@@ -3,7 +3,7 @@
 
   * Results of training and testing using the [Visdrone](http://aiskyeye.com/) data set
 ## Qualitative comparison(Denoising + Super Resolution)
-### Use a modified RDSRN(It will be updated soon.)
+### Use a modified [RDSRN](https://github.com/HEEJOWOO/RDSRN)(It will be updated soon.)
 
 
 |Input(350x197)|Ground Truth(1400x788)|Bicubic Upsample(1400x788)|denoising+Super Resolution(1400x788)|
