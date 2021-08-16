@@ -6,10 +6,10 @@
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/61686244/129529083-b3ac6038-87ef-4835-998b-678837b732d3.gif)
 
 
-  * Results of training and testing using the [Visdrone](http://aiskyeye.com/) data set
+  
 ## Qualitative comparison(Denoising + Super Resolution)
 ### Use a modified [RDSRN](https://github.com/HEEJOWOO/RDSRN)(It will be updated soon.)
-
+* Results of training and testing using the [Visdrone](http://aiskyeye.com/) data set
 
 |Input(350x197)|Ground Truth(1400x788)|Bicubic Upsample(1400x788)|denoising+Super Resolution(1400x788)|
 |-----|------------|----------------|----------------|
